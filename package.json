@@ -5,13 +5,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "devDependencies": {
-    "json-server": "^1.0.0-beta.3"
-  },
   "dependencies": {
-  "json-server": "^1.0.0-beta.3",
-  "axios": "^1.11.0",
-  "bcryptjs": "^3.0.2"
-}
-
+    "axios": "^1.11.0",
+    "bcryptjs": "^3.0.2",
+    "json-server": "^1.0.0-beta.3"
+  }
 }
